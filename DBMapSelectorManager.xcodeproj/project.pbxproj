@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		371B1F6D1D62BA09008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F6C1D62BA09008DD65B /* DBMapSelectorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		371B1F801D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F741D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.h */; };
-		371B1F811D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F751D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.m */; };
-		371B1F821D62BA1D008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F761D62BA1D008DD65B /* DBMapSelectorManager.h */; };
-		371B1F831D62BA1D008DD65B /* DBMapSelectorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F771D62BA1D008DD65B /* DBMapSelectorManager.m */; };
-		371B1F841D62BA1D008DD65B /* DBMapSelectorAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F791D62BA1D008DD65B /* DBMapSelectorAnnotation.h */; };
-		371B1F851D62BA1D008DD65B /* DBMapSelectorAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F7A1D62BA1D008DD65B /* DBMapSelectorAnnotation.m */; };
-		371B1F861D62BA1D008DD65B /* DBMapSelectorOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F7C1D62BA1D008DD65B /* DBMapSelectorOverlay.h */; };
-		371B1F871D62BA1D008DD65B /* DBMapSelectorOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F7D1D62BA1D008DD65B /* DBMapSelectorOverlay.m */; };
-		371B1F881D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F7E1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.h */; };
-		371B1F891D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F7F1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.m */; };
+		371B1F961D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8A1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h */; };
+		371B1F971D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F8B1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m */; };
+		371B1F981D62C8C8008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8C1D62C8C8008DD65B /* DBMapSelectorManager.h */; };
+		371B1F991D62C8C8008DD65B /* DBMapSelectorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F8D1D62C8C8008DD65B /* DBMapSelectorManager.m */; };
+		371B1F9A1D62C8C8008DD65B /* DBMapSelectorAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8F1D62C8C8008DD65B /* DBMapSelectorAnnotation.h */; };
+		371B1F9B1D62C8C8008DD65B /* DBMapSelectorAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F901D62C8C8008DD65B /* DBMapSelectorAnnotation.m */; };
+		371B1F9C1D62C8C8008DD65B /* DBMapSelectorOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F921D62C8C8008DD65B /* DBMapSelectorOverlay.h */; };
+		371B1F9D1D62C8C8008DD65B /* DBMapSelectorOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F931D62C8C8008DD65B /* DBMapSelectorOverlay.m */; };
+		371B1F9E1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F941D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h */; };
+		371B1F9F1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F951D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m */; };
+		371B1FA21D62C8CE008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1FA01D62C8CE008DD65B /* DBMapSelectorManager.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		371B1F691D62BA09008DD65B /* DBMapSelectorManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DBMapSelectorManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		371B1F6C1D62BA09008DD65B /* DBMapSelectorManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorManager.h; sourceTree = "<group>"; };
-		371B1F6E1D62BA09008DD65B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		371B1F741D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DBMapSelectorGestureRecognizer.h; path = ../../Source/DBMapSelectorGestureRecognizer.h; sourceTree = "<group>"; };
-		371B1F751D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DBMapSelectorGestureRecognizer.m; path = ../../Source/DBMapSelectorGestureRecognizer.m; sourceTree = "<group>"; };
-		371B1F761D62BA1D008DD65B /* DBMapSelectorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DBMapSelectorManager.h; path = ../../Source/DBMapSelectorManager.h; sourceTree = "<group>"; };
-		371B1F771D62BA1D008DD65B /* DBMapSelectorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DBMapSelectorManager.m; path = ../../Source/DBMapSelectorManager.m; sourceTree = "<group>"; };
-		371B1F791D62BA1D008DD65B /* DBMapSelectorAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorAnnotation.h; sourceTree = "<group>"; };
-		371B1F7A1D62BA1D008DD65B /* DBMapSelectorAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorAnnotation.m; sourceTree = "<group>"; };
-		371B1F7C1D62BA1D008DD65B /* DBMapSelectorOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorOverlay.h; sourceTree = "<group>"; };
-		371B1F7D1D62BA1D008DD65B /* DBMapSelectorOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorOverlay.m; sourceTree = "<group>"; };
-		371B1F7E1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorOverlayRenderer.h; sourceTree = "<group>"; };
-		371B1F7F1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorOverlayRenderer.m; sourceTree = "<group>"; };
+		371B1F8A1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DBMapSelectorGestureRecognizer.h; path = Source/DBMapSelectorGestureRecognizer.h; sourceTree = SOURCE_ROOT; };
+		371B1F8B1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DBMapSelectorGestureRecognizer.m; path = Source/DBMapSelectorGestureRecognizer.m; sourceTree = SOURCE_ROOT; };
+		371B1F8C1D62C8C8008DD65B /* DBMapSelectorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DBMapSelectorManager.h; path = Source/DBMapSelectorManager.h; sourceTree = SOURCE_ROOT; };
+		371B1F8D1D62C8C8008DD65B /* DBMapSelectorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DBMapSelectorManager.m; path = Source/DBMapSelectorManager.m; sourceTree = SOURCE_ROOT; };
+		371B1F8F1D62C8C8008DD65B /* DBMapSelectorAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorAnnotation.h; sourceTree = "<group>"; };
+		371B1F901D62C8C8008DD65B /* DBMapSelectorAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorAnnotation.m; sourceTree = "<group>"; };
+		371B1F921D62C8C8008DD65B /* DBMapSelectorOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorOverlay.h; sourceTree = "<group>"; };
+		371B1F931D62C8C8008DD65B /* DBMapSelectorOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorOverlay.m; sourceTree = "<group>"; };
+		371B1F941D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBMapSelectorOverlayRenderer.h; sourceTree = "<group>"; };
+		371B1F951D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBMapSelectorOverlayRenderer.m; sourceTree = "<group>"; };
+		371B1FA01D62C8CE008DD65B /* DBMapSelectorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DBMapSelectorManager.h; path = DBMapSelectorManager/DBMapSelectorManager.h; sourceTree = "<group>"; };
+		371B1FA11D62C8CE008DD65B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = DBMapSelectorManager/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +51,8 @@
 			isa = PBXGroup;
 			children = (
 				371B1F6B1D62BA09008DD65B /* DBMapSelectorManager */,
+				371B1FA01D62C8CE008DD65B /* DBMapSelectorManager.h */,
+				371B1FA11D62C8CE008DD65B /* Info.plist */,
 				371B1F6A1D62BA09008DD65B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -66,39 +68,37 @@
 		371B1F6B1D62BA09008DD65B /* DBMapSelectorManager */ = {
 			isa = PBXGroup;
 			children = (
-				371B1F741D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.h */,
-				371B1F751D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.m */,
-				371B1F761D62BA1D008DD65B /* DBMapSelectorManager.h */,
-				371B1F771D62BA1D008DD65B /* DBMapSelectorManager.m */,
-				371B1F781D62BA1D008DD65B /* MapSelectorAnnotation */,
-				371B1F7B1D62BA1D008DD65B /* MapSelectorOverlay */,
-				371B1F6C1D62BA09008DD65B /* DBMapSelectorManager.h */,
-				371B1F6E1D62BA09008DD65B /* Info.plist */,
+				371B1F8A1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h */,
+				371B1F8B1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m */,
+				371B1F8C1D62C8C8008DD65B /* DBMapSelectorManager.h */,
+				371B1F8D1D62C8C8008DD65B /* DBMapSelectorManager.m */,
+				371B1F8E1D62C8C8008DD65B /* MapSelectorAnnotation */,
+				371B1F911D62C8C8008DD65B /* MapSelectorOverlay */,
 			);
 			path = DBMapSelectorManager;
 			sourceTree = "<group>";
 		};
-		371B1F781D62BA1D008DD65B /* MapSelectorAnnotation */ = {
+		371B1F8E1D62C8C8008DD65B /* MapSelectorAnnotation */ = {
 			isa = PBXGroup;
 			children = (
-				371B1F791D62BA1D008DD65B /* DBMapSelectorAnnotation.h */,
-				371B1F7A1D62BA1D008DD65B /* DBMapSelectorAnnotation.m */,
+				371B1F8F1D62C8C8008DD65B /* DBMapSelectorAnnotation.h */,
+				371B1F901D62C8C8008DD65B /* DBMapSelectorAnnotation.m */,
 			);
 			name = MapSelectorAnnotation;
-			path = ../../Source/MapSelectorAnnotation;
-			sourceTree = "<group>";
+			path = Source/MapSelectorAnnotation;
+			sourceTree = SOURCE_ROOT;
 		};
-		371B1F7B1D62BA1D008DD65B /* MapSelectorOverlay */ = {
+		371B1F911D62C8C8008DD65B /* MapSelectorOverlay */ = {
 			isa = PBXGroup;
 			children = (
-				371B1F7C1D62BA1D008DD65B /* DBMapSelectorOverlay.h */,
-				371B1F7D1D62BA1D008DD65B /* DBMapSelectorOverlay.m */,
-				371B1F7E1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.h */,
-				371B1F7F1D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.m */,
+				371B1F921D62C8C8008DD65B /* DBMapSelectorOverlay.h */,
+				371B1F931D62C8C8008DD65B /* DBMapSelectorOverlay.m */,
+				371B1F941D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h */,
+				371B1F951D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m */,
 			);
 			name = MapSelectorOverlay;
-			path = ../../Source/MapSelectorOverlay;
-			sourceTree = "<group>";
+			path = Source/MapSelectorOverlay;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -107,12 +107,12 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				371B1F801D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */,
-				371B1F821D62BA1D008DD65B /* DBMapSelectorManager.h in Headers */,
-				371B1F881D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */,
-				371B1F861D62BA1D008DD65B /* DBMapSelectorOverlay.h in Headers */,
-				371B1F6D1D62BA09008DD65B /* DBMapSelectorManager.h in Headers */,
-				371B1F841D62BA1D008DD65B /* DBMapSelectorAnnotation.h in Headers */,
+				371B1F9E1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */,
+				371B1F9A1D62C8C8008DD65B /* DBMapSelectorAnnotation.h in Headers */,
+				371B1F981D62C8C8008DD65B /* DBMapSelectorManager.h in Headers */,
+				371B1F961D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */,
+				371B1FA21D62C8CE008DD65B /* DBMapSelectorManager.h in Headers */,
+				371B1F9C1D62C8C8008DD65B /* DBMapSelectorOverlay.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,11 +183,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				371B1F891D62BA1D008DD65B /* DBMapSelectorOverlayRenderer.m in Sources */,
-				371B1F871D62BA1D008DD65B /* DBMapSelectorOverlay.m in Sources */,
-				371B1F851D62BA1D008DD65B /* DBMapSelectorAnnotation.m in Sources */,
-				371B1F811D62BA1D008DD65B /* DBMapSelectorGestureRecognizer.m in Sources */,
-				371B1F831D62BA1D008DD65B /* DBMapSelectorManager.m in Sources */,
+				371B1F9F1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m in Sources */,
+				371B1F9D1D62C8C8008DD65B /* DBMapSelectorOverlay.m in Sources */,
+				371B1F9B1D62C8C8008DD65B /* DBMapSelectorAnnotation.m in Sources */,
+				371B1F971D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m in Sources */,
+				371B1F991D62C8C8008DD65B /* DBMapSelectorManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,6 +335,7 @@
 				371B1F731D62BA09008DD65B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
