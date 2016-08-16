@@ -10,7 +10,7 @@
 		371F1A531D62DE770061CA40 /* DBCircularMapRegion.h in Headers */ = {isa = PBXBuildFile; fileRef = 371F1A521D62DE770061CA40 /* DBCircularMapRegion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371F1A661D62DEA60061CA40 /* DBMapSelectorGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371F1A5A1D62DEA60061CA40 /* DBMapSelectorGestureRecognizer.h */; };
 		371F1A671D62DEA60061CA40 /* DBMapSelectorGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371F1A5B1D62DEA60061CA40 /* DBMapSelectorGestureRecognizer.m */; };
-		371F1A681D62DEA60061CA40 /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371F1A5C1D62DEA60061CA40 /* DBMapSelectorManager.h */; };
+		371F1A681D62DEA60061CA40 /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371F1A5C1D62DEA60061CA40 /* DBMapSelectorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371F1A691D62DEA60061CA40 /* DBMapSelectorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 371F1A5D1D62DEA60061CA40 /* DBMapSelectorManager.m */; };
 		371F1A6A1D62DEA60061CA40 /* DBMapSelectorAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 371F1A5F1D62DEA60061CA40 /* DBMapSelectorAnnotation.h */; };
 		371F1A6B1D62DEA60061CA40 /* DBMapSelectorAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 371F1A601D62DEA60061CA40 /* DBMapSelectorAnnotation.m */; };
