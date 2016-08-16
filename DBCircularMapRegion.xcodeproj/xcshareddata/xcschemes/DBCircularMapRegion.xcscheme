@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "371B1F681D62BA09008DD65B"
-               BuildableName = "DBMapSelectorManager.framework"
-               BlueprintName = "DBMapSelectorManager"
-               ReferencedContainer = "container:DBMapSelectorManager.xcodeproj">
+               BlueprintIdentifier = "371F1A4E1D62DE770061CA40"
+               BuildableName = "DBCircularMapRegion.framework"
+               BlueprintName = "DBCircularMapRegion"
+               ReferencedContainer = "container:DBCircularMapRegion.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "371B1F681D62BA09008DD65B"
-            BuildableName = "DBMapSelectorManager.framework"
-            BlueprintName = "DBMapSelectorManager"
-            ReferencedContainer = "container:DBMapSelectorManager.xcodeproj">
+            BlueprintIdentifier = "371F1A4E1D62DE770061CA40"
+            BuildableName = "DBCircularMapRegion.framework"
+            BlueprintName = "DBCircularMapRegion"
+            ReferencedContainer = "container:DBCircularMapRegion.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "371B1F681D62BA09008DD65B"
-            BuildableName = "DBMapSelectorManager.framework"
-            BlueprintName = "DBMapSelectorManager"
-            ReferencedContainer = "container:DBMapSelectorManager.xcodeproj">
+            BlueprintIdentifier = "371F1A4E1D62DE770061CA40"
+            BuildableName = "DBCircularMapRegion.framework"
+            BlueprintName = "DBCircularMapRegion"
+            ReferencedContainer = "container:DBCircularMapRegion.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
