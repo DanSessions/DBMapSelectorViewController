@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		371B1F961D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8A1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h */; };
+		371B1F961D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8A1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371B1F971D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F8B1D62C8C8008DD65B /* DBMapSelectorGestureRecognizer.m */; };
-		371B1F981D62C8C8008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8C1D62C8C8008DD65B /* DBMapSelectorManager.h */; };
+		371B1F981D62C8C8008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8C1D62C8C8008DD65B /* DBMapSelectorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371B1F991D62C8C8008DD65B /* DBMapSelectorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F8D1D62C8C8008DD65B /* DBMapSelectorManager.m */; };
-		371B1F9A1D62C8C8008DD65B /* DBMapSelectorAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8F1D62C8C8008DD65B /* DBMapSelectorAnnotation.h */; };
+		371B1F9A1D62C8C8008DD65B /* DBMapSelectorAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F8F1D62C8C8008DD65B /* DBMapSelectorAnnotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371B1F9B1D62C8C8008DD65B /* DBMapSelectorAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F901D62C8C8008DD65B /* DBMapSelectorAnnotation.m */; };
-		371B1F9C1D62C8C8008DD65B /* DBMapSelectorOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F921D62C8C8008DD65B /* DBMapSelectorOverlay.h */; };
+		371B1F9C1D62C8C8008DD65B /* DBMapSelectorOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F921D62C8C8008DD65B /* DBMapSelectorOverlay.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371B1F9D1D62C8C8008DD65B /* DBMapSelectorOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F931D62C8C8008DD65B /* DBMapSelectorOverlay.m */; };
-		371B1F9E1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F941D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h */; };
+		371B1F9E1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1F941D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		371B1F9F1D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 371B1F951D62C8C8008DD65B /* DBMapSelectorOverlayRenderer.m */; };
-		371B1FA21D62C8CE008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1FA01D62C8CE008DD65B /* DBMapSelectorManager.h */; };
+		371B1FA21D62C8CE008DD65B /* DBMapSelectorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 371B1FA01D62C8CE008DD65B /* DBMapSelectorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
